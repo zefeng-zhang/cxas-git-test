@@ -1,0 +1,14 @@
+{
+  "name": "f6a25527-3f97-4ef0-b647-65b8bf7fc030",
+  "displayName": "zefeng-test2",
+  "rootAgent": "Root agent",
+  "loggingSettings": {
+    "conversationLoggingSettings": {
+      "retentionWindow": "31536000s"
+    }
+  },
+  "guardrails": ["Default Safety Guardrail", "Default Prompt Guardrail"],
+  "timeZoneSettings": {
+    "timeZone": "America/Los_Angeles"
+  }
+}
