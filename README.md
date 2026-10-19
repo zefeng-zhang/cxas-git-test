@@ -1,9 +1,9 @@
-# cxas-git-test
+# cxas-git-test (branch1)
 
-This is the **main** branch of the `cxas-git-test` repository.
+This is **branch1** of the `cxas-git-test` repository.
 
 ## Overview
-This repository is used for testing Git workflows, branch management, and repository synchronization.
+This branch contains updates and modifications specific to `branch1` for testing multi-branch repository workflows.
 
-- **Branch**: `main` (default / stable)
-- **Environment**: Production / Base
+- **Branch**: `branch1` (feature / development)
+- **Environment**: Development / Feature testing
