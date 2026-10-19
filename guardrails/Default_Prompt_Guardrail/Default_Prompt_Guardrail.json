@@ -1,0 +1,12 @@
+{
+  "name": "10c45b7e-62c3-4fed-840b-c714a8101b85",
+  "displayName": "Default Prompt Guardrail",
+  "action": {
+    "generativeAnswer": {
+    }
+  },
+  "llmPromptSecurity": {
+    "defaultSettings": {
+    }
+  }
+}
